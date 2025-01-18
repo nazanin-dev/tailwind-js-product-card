@@ -1,4 +1,4 @@
-#Responsive Product Card with Tailwind CSS and JavaScript
+# Responsive Product Card with Tailwind CSS and JavaScript
 
 
 
